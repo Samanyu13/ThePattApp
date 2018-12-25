@@ -9,5 +9,10 @@
     <string name="login">Login</string>
     <string name="sign_up_prompt">New to ThePattApp? Sign Up..!</string>
     <string name="phone">Phone</string>
+    <string name="sign_in_google">Sign In - Google</string>
     <string name="email">Email</string>
+    <string name="logout_text">Logout</string>
+    <string name="sign_in_facebook">Sign In - Facebook</string>
+    <string name="facebook_app_id">Facebook App ID</string>
+
 </resources>
