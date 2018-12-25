@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ThePattApp</string>
+    <string name="name">Name</string>
+    <string name="create">Create!</string>
+    <string name="new_password">New Password</string>
+    <string name="password">Password</string>
+    <string name="thepattapp">ThePattApp</string>
+    <string name="username">Username</string>
+    <string name="login">Login</string>
+    <string name="sign_up_prompt">New to ThePattApp? Sign Up..!</string>
+    <string name="phone">Phone</string>
+    <string name="email">Email</string>
+</resources>

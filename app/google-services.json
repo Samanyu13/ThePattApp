@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1002480719877",
+    "firebase_url": "https://thepattapp51.firebaseio.com",
+    "project_id": "thepattapp51",
+    "storage_bucket": "thepattapp51.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1002480719877:android:bcfc411faf6fe8fd",
+        "android_client_info": {
+          "package_name": "locals.tharilla.thepattapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1002480719877-sbs685fa8uk2pi5v5spu9dubgn5hsr7j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "locals.tharilla.thepattapp",
+            "certificate_hash": "b1f9a9bdcc3881e3fd99952dd43cd20d11ab8556"
+          }
+        },
+        {
+          "client_id": "1002480719877-jubhhc40vq41q5olfu2tudgki42gd1bv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-ZGZHqHY4E1qc2-4m3eXqwVIVpsf-r5Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1002480719877-jubhhc40vq41q5olfu2tudgki42gd1bv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
